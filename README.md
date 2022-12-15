@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Cintia Guariz and I'm currently learning Android development using Java and Kotlin
+- 👋 Hi, my name is Cintia Guariz 
+
+- 👀 I'm looking for remote Android developer job
+
+- 🎯 I'm always searching forward to great challenges and opportunities to make the difference.
+  
 
 
-<!---
-cintiaGuariz/cintiaGuariz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
