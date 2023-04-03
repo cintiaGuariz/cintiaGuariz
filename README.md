@@ -1,8 +1,10 @@
 - 👋 Hi, my name is Cintia Guariz 
 
-- 👀 I am actively seeking a remote Android developer position.
+- 📱 I'm an Android developer on the lookout for remote job opportunities.👀  
 
-- 🎯 As an Android developer, I am always seeking ways to learn and grow in my field. I am excited about the prospect of joining a team that values innovation and creativity.
+- I'm always seeking ways to learn and grow in my field. 🎯
+
+- 💻 I am excited about the prospect of joining a team that values innovation and creativity.
   
 
 
