@@ -9,7 +9,8 @@
 You can contact me via:
 
 📧 Email: cintia.lorenzon@gmail.com
-💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/cintia-lorenzon/)
+
+💼 LinkedIn: [linkedin.com/in/cintia-lorenzon/](https://www.linkedin.com/in/cintia-lorenzon/)
 
 
 
