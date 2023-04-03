@@ -6,6 +6,10 @@
 
 - 💻 I am excited about the prospect of joining a team that values innovation and creativity.
   
+You can contact me via:
+
+📧 Email: cintia.lorenzon@gmail.com
+💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/cintia-lorenzon/)
 
 
 
